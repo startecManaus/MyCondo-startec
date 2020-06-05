@@ -1,0 +1,2 @@
+# MyCondo-startec
+GitHub Pages
